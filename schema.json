@@ -3,19 +3,19 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "name": "Dayton Sprinkler Repair Quotes",
+      "name": "Dayton Sprinkler Repair",
       "url": "https://daytonsprinklerrepair.com/",
-      "description": "Lead-matching website for Dayton sprinkler repair and irrigation repair quote requests."
+      "description": "Sprinkler and irrigation repair quote requests for the Dayton, Ohio area."
     },
     {
       "@type": "Organization",
-      "name": "Dayton Sprinkler Repair Quotes",
+      "name": "Dayton Sprinkler Repair",
       "url": "https://daytonsprinklerrepair.com/"
     },
     {
       "@type": "Service",
-      "name": "Dayton sprinkler repair and irrigation repair quote matching",
-      "serviceType": "Sprinkler repair and irrigation repair quote matching",
+      "name": "Dayton sprinkler repair quote requests",
+      "serviceType": "Sprinkler and irrigation repair quote requests",
       "areaServed": {
         "@type": "City",
         "name": "Dayton",
@@ -24,7 +24,7 @@
       },
       "provider": {
         "@type": "Organization",
-        "name": "Dayton Sprinkler Repair Quotes"
+        "name": "Dayton Sprinkler Repair"
       }
     }
   ]
