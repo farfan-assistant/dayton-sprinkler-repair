@@ -16,12 +16,13 @@
       "@type": "Service",
       "name": "Dayton sprinkler repair quote requests",
       "serviceType": "Sprinkler and irrigation repair quote requests",
-      "areaServed": {
-        "@type": "City",
-        "name": "Dayton",
-        "addressRegion": "OH",
-        "addressCountry": "US"
-      },
+      "areaServed": [
+        {"@type": "City", "name": "Dayton", "addressRegion": "OH", "addressCountry": "US"},
+        {"@type": "City", "name": "Kettering", "addressRegion": "OH", "addressCountry": "US"},
+        {"@type": "City", "name": "Centerville", "addressRegion": "OH", "addressCountry": "US"},
+        {"@type": "City", "name": "Beavercreek", "addressRegion": "OH", "addressCountry": "US"},
+        {"@type": "City", "name": "Huber Heights", "addressRegion": "OH", "addressCountry": "US"}
+      ],
       "provider": {
         "@type": "Organization",
         "name": "Dayton Sprinkler Repair"
