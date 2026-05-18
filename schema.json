@@ -14,14 +14,99 @@
     },
     {
       "@type": "Service",
-      "name": "Dayton sprinkler repair quote requests",
-      "serviceType": "Sprinkler and irrigation repair quote requests",
+      "name": "Dayton-area sprinkler and irrigation repair quote requests",
+      "serviceType": "Sprinkler and irrigation repair quote requests for Dayton, Kettering, Centerville, Beavercreek, Fairborn, Huber Heights, and nearby Ohio suburbs",
       "areaServed": [
-        {"@type": "City", "name": "Dayton", "addressRegion": "OH", "addressCountry": "US"},
-        {"@type": "City", "name": "Kettering", "addressRegion": "OH", "addressCountry": "US"},
-        {"@type": "City", "name": "Centerville", "addressRegion": "OH", "addressCountry": "US"},
-        {"@type": "City", "name": "Beavercreek", "addressRegion": "OH", "addressCountry": "US"},
-        {"@type": "City", "name": "Huber Heights", "addressRegion": "OH", "addressCountry": "US"}
+        {
+          "@type": "City",
+          "name": "Dayton",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Kettering",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Centerville",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Beavercreek",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Fairborn",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Huber Heights",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Vandalia",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Miamisburg",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Englewood",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Oakwood",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Bellbrook",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Riverside",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Moraine",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "West Carrollton",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Tipp City",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        }
       ],
       "provider": {
         "@type": "Organization",
