@@ -15,7 +15,7 @@
     {
       "@type": "Service",
       "name": "Dayton-area sprinkler and irrigation repair quote requests",
-      "serviceType": "Sprinkler and irrigation repair quote requests for Dayton, Kettering, Centerville, Beavercreek, Fairborn, Springboro, Huber Heights, and nearby Ohio suburbs",
+      "serviceType": "Sprinkler and irrigation repair quote requests for Dayton, Kettering, Centerville, Beavercreek, Fairborn, Xenia, Springboro, Huber Heights, and nearby Ohio suburbs",
       "areaServed": [
         {
           "@type": "City",
@@ -44,6 +44,12 @@
         {
           "@type": "City",
           "name": "Fairborn",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Xenia",
           "addressRegion": "OH",
           "addressCountry": "US"
         },
