@@ -15,7 +15,7 @@
     {
       "@type": "Service",
       "name": "Dayton-area sprinkler and irrigation repair quote requests",
-      "serviceType": "Sprinkler and irrigation repair quote requests for Dayton, Kettering, Centerville, Beavercreek, Riverside, Moraine, West Carrollton, Tipp City, Brookville, Germantown, Fairborn, Xenia, Springboro, Huber Heights, and nearby Ohio suburbs",
+      "serviceType": "Sprinkler and irrigation repair quote requests for Dayton, Kettering, Centerville, Beavercreek, Riverside, Moraine, West Carrollton, Tipp City, Trotwood, Clayton, Brookville, Germantown, Fairborn, Xenia, Springboro, Huber Heights, and nearby Ohio suburbs",
       "areaServed": [
         {
           "@type": "City",
@@ -62,6 +62,18 @@
         {
           "@type": "City",
           "name": "Vandalia",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Trotwood",
+          "addressRegion": "OH",
+          "addressCountry": "US"
+        },
+        {
+          "@type": "City",
+          "name": "Clayton",
           "addressRegion": "OH",
           "addressCountry": "US"
         },
